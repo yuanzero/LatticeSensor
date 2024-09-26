@@ -1,0 +1,25 @@
+
+This project requires the use of four devices: a computer running Unity (version 2021.3.16f), an AR glass HoloLens 2, an Arduino (specifically a Nano model for this project), and a robot hand. The image below shows the setup of the project.
+
+![image](https://github.com/user-attachments/assets/5f1f47f1-fd31-4c2a-adb6-33a2ec849088)
+
+Asset:
+
+To integrate the necessary asset into the Mixed Reality Toolkit 3 (MRTK3) project, it must be copied to the designated path within the MRTK3 project. The asset should be replaced in the specified directory within the project structure. For detailed instructions, please refer to the [MixedRealityToolkit-Unity](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity) repository on GitHub.
+
+Two main scenes are included in the project: CUBE_Color and HandVisualizer. The CUBE_Color scene facilitates color changes based on sensor values, while the HandVisualizer scene is used for controlling the robot hand.
+
+Key components of the project include:
+
+- Server: Responsible for communication with the robot arm via IP.
+![image](https://github.com/user-attachments/assets/c7cb1819-ffb0-4a67-a511-8d60806867ab)
+
+- Communication: Facilitates communication with the Arduino device through the serial port.
+![image](https://github.com/user-attachments/assets/478dd78c-6411-4e21-87a7-dc8f885047f2)
+
+- Action: Executes predefined actions within the project.
+![image](https://github.com/user-attachments/assets/91fd8735-25a4-42fc-99ce-41287c826c2b)
+
+- uHand: Contains the necessary code for controlling and communicating with Unity via IP.
+
+- 0827_objects_capture: Code segment for Arduino to obtain sensor values from the cube.

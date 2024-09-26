@@ -9,6 +9,8 @@ To integrate the necessary asset into the Mixed Reality Toolkit 3 (MRTK3) projec
 
 Two main scenes are included in the project: CUBE_Color and HandVisualizer. The CUBE_Color scene facilitates color changes based on sensor values, while the HandVisualizer scene is used for controlling the robot hand.
 
+For the hololens 2, we used the Holographic Remoting Player to project the virtual unity sence to the AR glass.
+
 Key components of the project include:
 
 - Server: Responsible for communication with the robot arm via IP.

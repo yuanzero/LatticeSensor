@@ -17,8 +17,6 @@ Key components of the project include:
 - Communication: Facilitates communication with the Arduino device through the serial port.
 ![image](https://github.com/user-attachments/assets/478dd78c-6411-4e21-87a7-dc8f885047f2)
 
-- Action: Executes predefined actions within the project.
-![image](https://github.com/user-attachments/assets/91fd8735-25a4-42fc-99ce-41287c826c2b)
 
 - uHand: Contains the necessary code for controlling and communicating with Unity via IP.
 

@@ -12,11 +12,11 @@ Two main scenes are included in the project: CUBE_Color and HandVisualizer. The 
 Demo:
 
 
+https://github.com/user-attachments/assets/5ab00b73-3ceb-4b77-abe3-2c6030c18e03
 
 https://github.com/user-attachments/assets/19c50115-9a5e-4922-a0ea-51bdcfc0a2af
 
 
-https://github.com/user-attachments/assets/5ab00b73-3ceb-4b77-abe3-2c6030c18e03
 
 
 

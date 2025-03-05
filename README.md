@@ -1,7 +1,5 @@
 
-This project requires the use of four devices: a computer running Unity (version 2021.3.16f), an AR glass HoloLens 2, an Arduino (specifically a Uno for this project), and a robot hand. The image below shows the setup of the project.
-
-![image](https://github.com/user-attachments/assets/5f1f47f1-fd31-4c2a-adb6-33a2ec849088)
+This project requires the use of four devices: a computer running Unity (version 2021.3.16f), an AR glass HoloLens 2, an Arduino (specifically a Uno for this project), and a robot hand. 
 
 Asset:
 
@@ -34,6 +32,10 @@ Key components of the project include:
 - uHand: Contains the necessary code for controlling and communicating with Unity via IP.
 
 - 0827_objects_capture: Code segment for Arduino to obtain sensor values from the cube.
+
+The image below shows the robot hand of the project.
+
+![image](https://github.com/user-attachments/assets/5f1f47f1-fd31-4c2a-adb6-33a2ec849088)
 
 
 

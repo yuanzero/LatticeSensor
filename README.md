@@ -1,3 +1,8 @@
+The project contains the source code of a journal paper titled "Dendrite-Inspired and 3D Printed Multidirectional Sensing Piezoresistive Metamaterials."
+
+**Citation Format:**
+L. Zhang, Y. Bian, W. Wei, Z. Liao, M. Cang, A. Yang, H. Zhi, W. Zhang, M. Chen, H. Cui, Y. Cai, "Dendrite-Inspired and 3D Printed Multidirectional Sensing Piezoresistive Metamaterials," *Advanced Functional Materials*, 2025, 2508987. https://doi.org/10.1002/adfm.202508987
+
 
 This project requires the use of four devices: a computer running Unity (version 2021.3.16f), an AR glass HoloLens 2, an Arduino (specifically a Uno for this project), and a robot hand. 
 
